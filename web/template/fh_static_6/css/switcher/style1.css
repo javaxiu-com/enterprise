@@ -1,0 +1,91 @@
+#style-switcher h2 a { background: #15191C none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #03a9f4 none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #03a9f4 !important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #03a9f4 !important;
+    background-color: transparent;
+}
+
+.menu-top li a:hover { color: #03a9f4!important }
+
+.navbar-default.menu-shrink li a:hover { color: #03a9f4 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #03a9f4 }
+
+
+.section-title span {background: #03a9f4 none repeat scroll 0 0;}
+
+.btn-home-bg {background: #03a9f4 none repeat scroll 0 0;border: 2px solid #03a9f4;}
+
+.about_single i {background: #03a9f4;border: 2px solid #03a9f4;}
+
+.about_single:hover i {color: #03a9f4;border: 2px solid #03a9f4;}
+
+.about_single span {background: #03a9f4 none repeat scroll 0 0;}
+
+.about_single:hover h4 { color: #03a9f4 }
+
+.single_feature i {background: #03a9f4 none repeat scroll 0 0;}
+
+.single_feature:hover {background: #03a9f4 none repeat scroll 0 0;}
+
+.single_feature:hover i {color: #03a9f4;}
+
+.service:hover {background:#03a9f4;border: 2px solid #03a9f4;}
+
+.service:hover .icon {color: #03a9f4;}
+
+.our_work_menu ul li:hover,
+.our_work_menu ul li.active {background: #03a9f4 none repeat scroll 0 0;border-color: #03a9f4;}
+
+.sing_link_img a:hover {background: #03a9f4;}
+
+.single_our_work:hover {background: #03a9f4;}
+
+.btn-portfolio-bg {background: #03a9f4 none repeat scroll 0 0;}
+
+.carousel-indicators li {border: 1px solid #03a9f4;background: #03a9f4;}
+
+.counter i {background: #03a9f4 none repeat scroll 0 0;border: 2px solid #03a9f4;}
+
+.counter:hover i{background:none;color:#03a9f4;border:2px solid #03a9f4}
+
+.social > li:after {background: #03a9f4 none repeat scroll 0 0;}
+
+.team_text ul.social li a i:hover {border-color: #e8e8e9;background: #03a9f4;}
+
+.social > li:hover:after { background: #03a9f4 }
+
+.progress-bar > span {background: #03a9f4 none repeat scroll 0 0;}
+
+.pricing-table-default:hover{ background: #03a9f4;}
+
+.pricing-head .price {background-color: #03a9f4;}
+
+.pricing-table-default:hover .price{color: #03a9f4;}
+
+.pricing-table-default:hover .btn{color: #03a9f4;}
+
+.blog-text i { color: #03a9f4 }
+
+.blog-text span {color: #03a9f4;}
+
+.btn-blog-bg:hover{border: 1px solid #03a9f4;color:#03a9f4;}
+
+.form-control:focus {border: 1px solid #03a9f4;}
+
+.btn-contact-bg {background: #03a9f4 none repeat scroll 0 0;}
+
+.contact-address {background: #03a9f4 none repeat scroll 0 0;}
+
+.copyright a {color: #03a9f4;}
