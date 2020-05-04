@@ -173,7 +173,7 @@ public class DbFH{
 	 */
 	public static Connection getCon(String dbtype,String username,String password,String dburl,String databaseName) throws SQLException, ClassNotFoundException{
 		if("mysql".equals(dbtype)){
-			Class.forName("com.mysql.jdbc.Driver");
+			Class.forName("com.mysql.cj.jdbc.Driver");
 			return DriverManager.getConnection("jdbc:mysql://"+dburl+"/"+databaseName+"?user="+username+"&password="+password+"&serverTimezone=UTC");
 		}else if("oracle".equals(dbtype)){
 			Class.forName("oracle.jdbc.driver.OracleDriver");
